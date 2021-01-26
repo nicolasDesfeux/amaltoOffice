@@ -43,7 +43,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"CA - Board Room"
+                 "value":"CalgaryBoardRoom"
                 }],
          "type":"tilelayer",
          "visible":true,
